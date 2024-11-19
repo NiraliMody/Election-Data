@@ -1,2 +1,4 @@
 # Election-Data
-Election Data
+This project aims to help CNBE, a leading news channel, predict election outcomes through an exit poll model based on voter survey data. By analyzing responses from 1,525 voters across nine variables—including demographics, political preferences, and economic outlook—the model can forecast the likelihood of voters choosing either the Labour or Conservative party. The goal is to provide CNBE with accurate predictions of each party’s overall win and seat coverage, enhancing their election coverage and credibility.
+The data in this project represents voter information from the United Kingdom (UK), a country with a rich history of political diversity, where major political parties like the Labour Party and the Conservative Party hold distinct positions on economic, social, and international issues.
+The UK's relationship with Europe has long been a central political issue, notably with Brexit. Voters’ attitudes toward Europe provide insights into their broader political views, such as nationalism and trade policy, which may impact party preferences.
